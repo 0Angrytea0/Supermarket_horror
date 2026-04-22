@@ -1,0 +1,11 @@
+Model Information:
+* title:	Storage Closet
+* source:	https://sketchfab.com/3d-models/storage-closet-9faf4fdfeeda4d9c919123619ff61925
+* author:	Dreadler (https://sketchfab.com/Dreadler)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Storage Closet" (https://sketchfab.com/3d-models/storage-closet-9faf4fdfeeda4d9c919123619ff61925) by Dreadler (https://sketchfab.com/Dreadler) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
